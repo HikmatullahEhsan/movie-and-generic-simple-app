@@ -30,5 +30,12 @@ http://localhost:3000/api-docs
 ## Testing
 
 * `npm install`
-* `npm test
+* `npm test`
+
+## Demo link
+
+* `https://simple-genre-movie-webservice.herokuapp.com/`
+
+
+
 
